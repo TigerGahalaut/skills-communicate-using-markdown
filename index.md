@@ -10,3 +10,7 @@ Experimenting with header sizes.
 ```python
 text = "Hello, world!"
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
